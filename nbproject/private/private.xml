@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Factory/CountryRulesAbstractFactory.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Model/BrazilianCertificate.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/AbstractFactory/Main.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Model/UScertificate.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Factory/USRulesAbstractFactory.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Model/Certificate.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Model/USpacking.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Model/BrazilianPacking.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Model/Packing.java</file>
+            <file>file:/D:/Users/rrobasseto/Documents/NetBeansProjects/Abstract%20Factory/src/Factory/BrazilianRulesAbstractFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
